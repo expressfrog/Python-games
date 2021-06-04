@@ -1,3 +1,3 @@
 # Python games
  See the world of python games
-go to https://github.com/expressfrog/Python-games/releases to download
+***Clone it in terminal like* git clone https://github.com/expressfrog/Python-Games/releases**
